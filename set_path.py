@@ -3,7 +3,7 @@ import re
 
 
 dir_list = []
-root_directory = r'C:\Users\Reta\Downloads\JavaScript Free Tutorial for beginners in Hindi Urdu [Yahoo Baba]'
+root_directory = r'C:\Users\Reta\Downloads\JavaScript Free Tutorial for beginners in Hindi Urdu'
 
 
 def get_all_subdirs():
