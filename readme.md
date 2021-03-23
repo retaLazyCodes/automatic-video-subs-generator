@@ -2,7 +2,7 @@
 
 
 1. Instalar Python 3x y PIP
-2. Intalar librería moviepy
+2. Instalar librería moviepy
 ~~~
     pip install moviepy
 ~~~
